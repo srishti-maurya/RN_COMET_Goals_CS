@@ -37,7 +37,7 @@ export default function LinkingButtonScreen({ navigation }) {
       <Button
         title="Open public Url"
         onPress={() => {
-          Linking.openURL("https://abhi9vanand.vercel.app/");
+          Linking.openURL("https://srishti-maurya.netlify.app/");
         }}
       />
     </View>

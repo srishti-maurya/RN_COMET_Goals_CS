@@ -14,7 +14,7 @@ const {
   debug,
   spring,
   Value,
-  Clock,
+  Clock,  
 } = Animated;
 
 function runSpring(clock, value, dest) {
