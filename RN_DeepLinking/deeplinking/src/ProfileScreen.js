@@ -20,7 +20,7 @@ const ProfileScreen = ({ route, navigation }) => {
 const styles = StyleSheet.create({
   attributeTitle: {
     padding: 20,
-    color: "#e4002b",
+    color: "#006778",
   },
 });
 export default ProfileScreen;
